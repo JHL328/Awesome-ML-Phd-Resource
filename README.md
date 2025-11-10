@@ -1,2 +1,12 @@
-# Awesome-ML-Phd-Resource
-Curated ML/AI PhD resources &amp; research notes: topic selection, surveying, experiments, writing, submission guides, courses, tools, datasets, and templates. PRs welcome.
+# Awesome-ML-Phd
+
+- [Research](#research)
+- [Resource](#resource)
+- [Template](#template)
+
+## 📝Research
+
+## 🔍Resource
+[Awesome tips](https://github.com/jbhuang0604/awesome-tips?tab=readme-ov-file)
+
+## 🚀Template
