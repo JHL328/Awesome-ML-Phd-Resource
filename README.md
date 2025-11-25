@@ -39,3 +39,5 @@
 [Develop good Research Question](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 [Impectful research](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
+
+[Think in math, write in code](https://www.jmeiners.com/think-in-math/)
