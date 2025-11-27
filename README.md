@@ -9,6 +9,8 @@
 [Paper Implementation](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 ## 🔍Resource
+[Continuous batching](https://huggingface.co/blog/continuous_batching#continuous-batching)
+
 [GRPO](https://www.creetz.com/grpo.html)
 
 [Search Paper](https://github.com/gyj155/SearchPaperByEmbedding)
