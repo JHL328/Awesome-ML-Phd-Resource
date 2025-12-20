@@ -9,6 +9,8 @@
 [Paper Implementation](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 ## 🔍Resource
+[nanochat](https://github.com/karpathy/nanochat)
+
 [AI infrastructure in the "Era of experience"](https://www.tensoreconomics.com/p/ai-infrastructure-in-the-era-of-experience)
 
 [Continuous batching](https://huggingface.co/blog/continuous_batching#continuous-batching)
