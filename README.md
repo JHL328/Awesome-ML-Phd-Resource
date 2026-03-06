@@ -8,6 +8,8 @@
 ## 📝Research
 [Paper Implementation](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
+[Sida Peng Learning Research](https://github.com/pengsida/learning_research/tree/master)
+
 ## 🔍Resource
 [Zero_nlp](https://github.com/yuanzhoulvpi2017/zero_nlp)
 
